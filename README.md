@@ -17,6 +17,8 @@ Usage
 Helpful for getting the application.
 
 Download Code from Git:-
+Download zip file 
+or
 git clone https://github.com/Priyanka12/CondeNastTask.git
 
 Clone this code and use the code.

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "253D890A-0B5F-4141-BAC4-B9C5BA0216F2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6885DC51-4DE5-4094-B6D4-7CDAAD5E288B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskCondeNast/View/ListVC/TopHeadlinesListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getNewsList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6885DC51-4DE5-4094-B6D4-7CDAAD5E288B - cd19cf2dbb3e1148"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TaskCondeNast.ListResponse&gt;) -&gt; () in TaskCondeNast.TopHeadlinesListVC.getNewsList() -&gt; ()"
+                  moduleName = "TaskCondeNast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankasaini/iCloud%20Drive%20(Archive)/Desktop/TaskCondeNast/TaskCondeNast/View/ListVC/TopHeadlinesListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "6885DC51-4DE5-4094-B6D4-7CDAAD5E288B - 7c1a4c2dd2f17a38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;TaskCondeNast.ListResponse&gt;) -&gt; () in TaskCondeNast.TopHeadlinesListVC.getNewsList() -&gt; ()"
+                  moduleName = "TaskCondeNast"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankasaini/iCloud%20Drive%20(Archive)/Desktop/TaskCondeNast/TaskCondeNast/View/ListVC/TopHeadlinesListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
